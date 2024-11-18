@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movietimecalculator/static/css/main.e6c13ad2.css",
+    "main.js": "/movietimecalculator/static/js/main.f0caa133.js",
+    "static/js/453.e8cde7e6.chunk.js": "/movietimecalculator/static/js/453.e8cde7e6.chunk.js",
+    "index.html": "/movietimecalculator/index.html",
+    "main.e6c13ad2.css.map": "/movietimecalculator/static/css/main.e6c13ad2.css.map",
+    "main.f0caa133.js.map": "/movietimecalculator/static/js/main.f0caa133.js.map",
+    "453.e8cde7e6.chunk.js.map": "/movietimecalculator/static/js/453.e8cde7e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0caa133.js"
+  ]
+}
